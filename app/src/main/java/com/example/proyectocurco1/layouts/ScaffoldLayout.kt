@@ -27,7 +27,7 @@ fun ScaffoldLayout(){
         topBar = {
             TopAppBar(
                 colors = TopAppBarDefaults.topAppBarColors(
-                    containerColor = Color.Magenta
+                    containerColor = Color.Red
                 ),
                 title = {
                     Text(text="AppBar")
